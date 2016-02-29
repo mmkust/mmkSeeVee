@@ -2,13 +2,12 @@
     "firstname": "Marija",
     "lastname": "Malkoc Kust",
     "title": "dipl. ing.",
-    "jobtitle": "Lean Java Example",
+    "jobtitle": "Lean Java Expert",
     "company": "comSysto d.o.o.",
     "contact": {
         "mobile": "+385915745098",
         "email": "marija.kust@gmail.com"
     },
-    "qualification": "VSS",
     "itskills": [
         "Java, JavaScript, SQL; Spring, Hibernate, Toplink; GWT, GWT-Ext, PrimeFaces, Eclipse RCP; jQuery, Backbone.js, Bootstrap, KnockoutJS, Dojo; \nHTML, CSS; Drools, Jasper Reports; SVN, CVS, Mercurial, Git; Maven, Gradle; Tomcat, WAS; DB2, Oracle DB; Squirrel, DBVisualizer; IntellJ IDEA, Eclipse, STS, RSA; JUnit, Protractor, Gauge, UFT; Agile, Scrum"
     ]
