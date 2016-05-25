@@ -1,1 +1,49 @@
-{}
+{
+    "firstname": "Marija",
+    "lastname": "Malkoč Kušt",
+    "dateofbirth": "1983-04-26",
+    "jobtitle": "Lean Java Expert",
+    "contact": {
+        "mobile": "+385915745098",
+        "email": "marija.kust@gmail.com",
+        "address": {
+            "street": "---",
+            "postalcode": "10000",
+            "city": "Zagreb"
+        }
+    },
+    "qualification": "Dipl. Ing.",
+    "qualificationalinstitution": "--",
+    "languages": [
+        {
+            "name": "Kroatisch",
+            "percentage": "100"
+        },
+        {
+            "name": "Deutsch",
+            "percentage": "100"
+        },
+        {
+            "name": "Englisch",
+            "percentage": "90"
+        },
+        {
+            "name": "Italienisch",
+            "percentage": "11"
+        }
+    ],
+    "certifications": [],
+    "topskills": [],
+    "aboutme": [],
+    "experience": [],
+    "methodicalskills": [],
+    "industryskills": [],
+    "itskills": [],
+    "projecthistory": [],
+    "template": {
+        "id": "seevee",
+        "logo": "logo",
+        "url": "https://www.seevee.io"
+    },
+    "locale": "de"
+}
