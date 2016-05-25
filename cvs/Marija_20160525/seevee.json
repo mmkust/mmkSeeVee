@@ -1,6 +1,6 @@
 {
     "firstname": "Marija",
-    "lastname": "Malkoč Kušt",
+    "lastname": "Malkoč Kušt, Dipl. Ing.",
     "dateofbirth": "1983-04-26",
     "jobtitle": "Lean Java Expert",
     "contact": {
@@ -12,8 +12,8 @@
             "city": "Zagreb"
         }
     },
-    "qualification": "Dipl. Ing.",
-    "qualificationalinstitution": "--",
+    "qualification": "---",
+    "qualificationalinstitution": "---",
     "languages": [
         {
             "name": "Kroatisch",
